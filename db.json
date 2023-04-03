@@ -53,6 +53,14 @@
       "exp": "4-6 Yrs",
       "salary": "3,00,000 - 5,00,000 PA.",
       "location": "Pune(shukravar Peth)"
+    },
+    {
+      "id": 107,
+      "desg": "Account Executive",
+      "company": "Hightech Information Fast Services",
+      "exp": "6-8 Yrs",
+      "salary": "3,00,000 - 5,00,000 PA.",
+      "location": "Hyderabad"
     }
   ],
   "messages": [],
